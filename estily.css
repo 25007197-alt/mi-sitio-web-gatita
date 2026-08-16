@@ -1,0 +1,11 @@
+Body {
+	background: #fff;
+}
+
+.top {background: #666; height: 30px;}
+.topnav {}
+.banner {}
+.content{background: #fff; height: auto}
+.leftside {background: #cecece; height: auto; padding-top: 50px; }
+.rightside {background: #888; height: auto;}
+.footer {background: #000; height: auto; color: #fff; text-align: center; padding-top: 15px; padding-bottom: 15px}
